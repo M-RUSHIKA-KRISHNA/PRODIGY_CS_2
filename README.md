@@ -1,0 +1,2 @@
+# PRODIGY_CS_2
+This project demonstrates encrypting images through pixel manipulation techniques. By altering pixel values with encryption algorithms, the original image is transformed and concealed, ensuring secure protection. It features pixel-level encryption, customizable algorithms, and decryption capabilities, along with a user-friendly interface for uploading and encrypting images. This project highlights the importance of securing visual information in the digital age.
